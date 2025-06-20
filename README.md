@@ -1,6 +1,7 @@
 # CineWorld - Movie Discovery Website
 
-![Screenshot 2025-04-15 154013](https://github.com/user-attachments/assets/6283d9c0-9304-4fc6-b086-9e85c4b8139e)
+![image](https://github.com/user-attachments/assets/43a0bda6-9328-42bf-abf6-1abff1650b38)
+
  <!-- Replace with your actual logo -->
 
 CineWorld is a modern movie discovery website that helps you explore trending, popular, and upcoming movies using data from the TMDB (The Movie Database) API.
